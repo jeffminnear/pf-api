@@ -3,12 +3,7 @@
 An API version of Pilot-Fish
 
 ## Getting Started
-Install the module with: `npm install pf-api`
-
-```javascript
-var pf_api = require('pf-api');
-pf_api.awesome(); // "awesome"
-```
+_(Coming soon)_
 
 ## Documentation
 _(Coming soon)_
