@@ -38,6 +38,7 @@
   "keywords": [],
   "dependencies": {
     "body-parser": "^1.15.1",
-    "express": "^4.13.4"
+    "express": "^4.13.4",
+    "pf-scrapers": "^1.0.1"
   }
 }
