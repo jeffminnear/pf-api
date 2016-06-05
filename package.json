@@ -2,6 +2,7 @@
   "name": "pf-api",
   "description": "An API version of Pilot-Fish",
   "version": "0.1.0",
+  "license": "MIT",
   "homepage": "https://github.com/jeffminnear/pf-api",
   "author": {
     "name": "Jeff Minnear",
@@ -34,5 +35,9 @@
     "grunt-contrib-watch": "~0.5.3",
     "grunt": "~0.4.5"
   },
-  "keywords": []
+  "keywords": [],
+  "dependencies": {
+    "body-parser": "^1.15.1",
+    "express": "^4.13.4"
+  }
 }
